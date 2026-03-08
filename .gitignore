@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP environment / config (rename db.php to db.example.php and ignore real one if needed)
+# Uncomment the line below if you want to hide your DB credentials:
+# db.php
+
+# Logs
+*.log
+error_log
+
+# Uploaded / temporary files
+uploads/
+tmp/
